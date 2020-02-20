@@ -5,6 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\GRinger.Model.Abstractions\GRinger.Model.Abstractions.csproj" />
+    <ProjectReference Include="..\GRinger.Model.Abstractions\GRinger.Model.Abstractions.csproj" />
   </ItemGroup>
 </Project>

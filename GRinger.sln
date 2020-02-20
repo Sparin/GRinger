@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRinger", "src\GRinger\GRin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRinger.Model", "src\GRinger.Model\GRinger.Model.csproj", "{B0440442-FD4E-4A0E-8D56-26649ED9D584}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRinger.Model.Abstractions", "GRinger.Model.Abstractions\GRinger.Model.Abstractions.csproj", "{3F03BC74-C614-4AE6-B475-93237E0DE4B6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GRinger.Model.Abstractions", "src\GRinger.Model.Abstractions\GRinger.Model.Abstractions.csproj", "{3F03BC74-C614-4AE6-B475-93237E0DE4B6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GRinger.Abstractions", "src\GRinger.Abstractions\GRinger.Abstractions.csproj", "{483E5722-CFBF-4730-8E5B-497E104C2711}"
 EndProject
